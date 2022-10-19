@@ -6,7 +6,7 @@ This repository contains the code as well as the final paper for my research pro
 
 Recent work has shown that Laplace approximations and Variational Inference (VI) for Bayesian Neural Networks are approximately equal at convergence. The differences between MAP and VI training are however less well understood. We theoretically investigate this difference and propose that the benefit of VI on MAP is the convergence towards flat minima. Based on this, we investigate different flat minima algorithms for MAP and how they influence the Laplace approximation.
 
-[A visualization of the different algorithm behaviours in loss landscape](paper/figures/Trajectory.png)
+![alt text](paper/figures/Trajectory.png)
 
 
 More information can be found in the full paper [here](ResearchProject_Philipp_VonBachmann.pdf).
